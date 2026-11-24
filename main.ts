@@ -2,7 +2,8 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 // Ridiculous at First Glance, Real by the Second: one startup pitch that sounds
-// absurd until it clearly sells, at most 200 characters.
+// absurd until it clearly sells, at most 200 characters. The joke is the name;
+// the business is the fee for a living room that photographs well.
 const LINE =
   "A subscription that rents out other people's houseplants for parties, so your apartment looks loved and your plants stay alive — Plantbnb, but the hosts never cancel.";
 const MAX_CHARS = 200;
